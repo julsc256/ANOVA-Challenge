@@ -12,4 +12,6 @@ For the following questions, write out the appropriate hypothesis test, calculat
 4) Is the conversion rate for ads placed at the beginning, middle, or end of a video different depending on where the call-to-action button is place?
 
 ## Results
-In the notebook `ANOVA Challenge - Solution.ipynb`, you'll find the results of hypothesis testing using
+In the notebook `ANOVA Challenge - Solution.ipynb`, you'll find the results of hypothesis testing using:
+- The p-value 0.05 as a threshold to decide if the hypothesis should be accepted or rejected
+- The ANOVA test when comparing 2 or more variables and presenting the results using Turkey HSD Test 
