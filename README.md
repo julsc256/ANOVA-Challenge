@@ -10,3 +10,6 @@ For the following questions, write out the appropriate hypothesis test, calculat
 2) Is the conversion rate different for ads that are very short versus ads that are long?
 3) Does it matter what background music is included in an ad?
 4) Is the conversion rate for ads placed at the beginning, middle, or end of a video different depending on where the call-to-action button is place?
+
+## Results
+In the notebook `ANOVA Challenge - Solution.ipynb`, you'll find the results of hypothesis testing using
